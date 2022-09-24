@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.box {
+  background-color: red;
+}
+
+.box1 {
+  min-height: 100vh;
+}
+
+.darkClass {
+  background-color: black;
+}
+
+.icon {
+  cursor: pointer;
+}
